@@ -3,7 +3,7 @@
 - 🎓 I'm going to graduate Sogang Univ in August, 2021.
 - 🌱 I’m currently learning `React`, `Algorithm`.
 - 🐣 Language : C/C++, Python, Java, Javascript
-- 📫 How to reach me : eunji97@comcom.ai or lej970703@naver.com
+- 📫 How to reach me : eunji@comcom.ai or lej970703@naver.com
 - ⚡ Fun fact: My first major is Philosophy.
 - 💻 Blog : https://dleunji.github.io
 
