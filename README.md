@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Common Computer.
 - 🎓 I'm going to graduate Sogang Univ in August, 2021.
-- 🌱 I’m currently learning `React`, `nodej.js`, `Algorithm`.
+- 🌱 I’m currently learning `React`, `node.js`, `Algorithm`.
 - 🐣 Language : C/C++, Python, Java, Javascript
 - 📫 How to reach me : eunji@comcom.ai or lej970703@naver.com
 - ⚡ Fun fact: My first major is Philosophy.
