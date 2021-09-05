@@ -1,10 +1,10 @@
 ### Hi there 👋
 - 🎓 I graduated Sogang Univ in August, 2021.
-- 🏢 I worked as an intern in Common Computer for 3 months, in SK C&C for 6 weeks.
-- 🐣 Language : C/C++, Python, Java, Javascript
+- 🐣 Language : C/C++, Python, Javascript
+- 🤔 I'm interested in collaborating for Open Source
 - 📫 How to reach me : lej970703@naver.com
 - ⚡ Fun fact: My first major is Philosophy. I love talking with teammates during programming. 
-- ✨ I'd appreciate any feedbacks on my repos. Leave issues anytime
+- ✨ I'd appreciate any feedbacks on my repos. Leave issues anytime!
 
 <!--
 **dleunji/dleunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
